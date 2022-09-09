@@ -1,0 +1,16 @@
+LICENSE.md
+README.md
+setup.py
+vdvae/__init__.py
+vdvae/data.py
+vdvae/files_to_npy.py
+vdvae/hps.py
+vdvae/train.py
+vdvae/train_helpers.py
+vdvae/utils.py
+vdvae/vae.py
+vdvae/vae_helpers.py
+vdvae.egg-info/PKG-INFO
+vdvae.egg-info/SOURCES.txt
+vdvae.egg-info/dependency_links.txt
+vdvae.egg-info/top_level.txt

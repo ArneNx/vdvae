@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: vdvae
+Version: 0.1
+Summary: Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images
+Author: Rewon Child
+Author-email: rewon@openai.com
+License-File: LICENSE.md
