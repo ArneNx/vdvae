@@ -1,3 +1,8 @@
 2022-09-09.10-36-13 git status
 2022-09-09.10-36-26 git log
 2022-09-09.10-36-32 git add -A
+2022-09-09.10-37-12 git commit -m "Transformed into package, added multi-GPU support, made more stable (elu+1),..."
+2022-09-09.10-37-17 git status
+2022-09-09.10-37-46 cp ../bias_transfer/.gitignore ./
+2022-09-09.10-37-51 git status
+2022-09-09.10-37-54 git add -A
